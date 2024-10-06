@@ -55,7 +55,7 @@
     .navbar a:hover {
         background-color: #1abc9c; /* Darker background on hover */
         color: #ffffff; /* Keep text white on hover */
-        transform: scale(1.05); /* Slightly enlarge link on hover */
+        transform: scale(1.04); /* Slightly enlarge link on hover */
     }
 
     /* Main content styles */
