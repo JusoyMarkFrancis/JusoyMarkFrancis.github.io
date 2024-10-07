@@ -5,6 +5,6 @@
         <p class="mt-4">Starting this journey with little knowledge of computers has been challenging, but I’ve grown to enjoy the learning process. Every day brings new challenges and opportunities, and I'm excited to expand my skills in the world of technology.</p>
     </div>
     <div class="w-1/2 flex justify-center items-center"> <!-- Centered the image -->
-        <img src="image2.jpg" alt="Student" class="h-auto max-w-full w-3/4 rounded-full shadow-md"> <!-- Added shadow-md here -->
+        <img src="Images/image2.jpg" alt="Student" class="h-auto max-w-full w-3/4 rounded-full shadow-md"> <!-- Added shadow-md here -->
     </div>
 </div>
