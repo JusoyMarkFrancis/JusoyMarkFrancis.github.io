@@ -20,12 +20,11 @@
 </main>
 
 <style>
-    /* Global styles for body */
     :global(body) {
         font-family: 'Poppins', sans-serif;
         margin: 0;
         padding: 0;
-        background-color: #9dc5c0; /* Light background for contrast */
+        background-color: #9dc5c0; 
     }
 
     /* Navbar styles */
@@ -33,33 +32,33 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-        background-color: #34495e; /* Dark background */
-        padding: 1rem 2rem; /* Padding for spacing */
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        background-color: #34495e; 
+        padding: 1rem 2rem; 
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
     }
 
     .navbar a {
-        color: #ffffff; /* White text color */
-        text-decoration: none; /* Remove underline */
-        padding: 0.5rem 1rem; /* Padding around links */
-        transition: background-color 0.3s, color 0.3s, transform 0.2s; /* Smooth transition */
-        border-radius: 5px; /* Slight rounding of corners */
+        color: #ffffff; 
+        text-decoration: none; 
+        padding: 0.5rem 1rem; 
+        transition: background-color 0.3s, color 0.3s, transform 0.2s; 
+        border-radius: 5px; 
     }
 
-    /* Specific styles for the logo text */
+    
     .navbar .logo {
-        font-size: 1.5rem; /* Adjust this value as needed */
-        font-weight: bold; /* Make it bold */
+        font-size: 1.5rem; 
+        font-weight: bold; 
     }
 
     .navbar a:hover {
-        background-color: #1abc9c; /* Darker background on hover */
-        color: #ffffff; /* Keep text white on hover */
-        transform: scale(1.04); /* Slightly enlarge link on hover */
+        background-color: #1abc9c; 
+        color: #ffffff; 
+        transform: scale(1.04); 
     }
 
     /* Main content styles */
     .main-content {
-        padding: 2rem; /* Spacing around main content */
+        padding: 2rem; 
     }
 </style>

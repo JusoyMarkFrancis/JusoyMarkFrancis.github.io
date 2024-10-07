@@ -18,25 +18,25 @@
     .portfolio {
         display: flex;
         flex-wrap: wrap;
-        gap: 16px; /* Adjust the gap between images */
-        padding: 20px; /* Optional padding around the portfolio */
-        background-color: #f0f0f0; /* Grey background */
-        border-radius: 8px; /* Optional: for rounded corners on the background */
+        gap: 16px; 
+        padding: 20px; 
+        background-color: #f0f0f0; 
+        border-radius: 8px; 
     }
     .portfolio h1 {
-        width: 100%; /* Makes the title span the full width */
-        text-align: center; /* Center the title */
-        margin-bottom: 20px; /* Space between title and images */
+        width: 100%; 
+        text-align: center; 
+        margin-bottom: 20px; 
     }
     .portfolio img {
-        width: calc(50% - 8px); /* Two images per row with some gap */
-        height: auto; /* Allow height to adjust based on aspect ratio */
-        max-height: 500px; /* Increased max height for bigger images */
-        object-fit: contain; /* Ensures the entire image is visible */
-        border-radius: 8px; /* Optional: for rounded corners */
-        border: 1px solid #34495e; /* Add border around the image */
-        padding: 4px; /* Optional: padding between the image and the border */
-        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: subtle shadow for depth */
+        width: calc(50% - 8px); 
+        height: auto; 
+        max-height: 500px; 
+        object-fit: contain; 
+        border-radius: 8px; 
+        border: 1px solid #34495e; 
+        padding: 4px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
     }
     .section {
         margin-top: 40px; /* Space between sections */
