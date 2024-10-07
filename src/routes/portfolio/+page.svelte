@@ -11,7 +11,7 @@
         { src: 'Images/system2b.PNG', alt: 'E-Commerce' },
         { src: 'Images/system2c.PNG', alt: 'E-Commerce' },
         { src: 'Images/system2d.PNG', alt: 'E-Commerce' },
-    ];
+    ]
 </script>
 
 <style>
